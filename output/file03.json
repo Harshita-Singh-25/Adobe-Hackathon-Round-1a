@@ -1,460 +1,80 @@
 {
-    "title": "To Present a Proposal for Developing the Business Plan for the Ontario Digital Library",
+    "title": "RFP: RRFP: Reequest fquest fquest foor Prr Prr ProposaloposaloposalRFP: RRFP: Rquest fr Proposal",
     "outline": [
         {
             "level": "H1",
-            "text": "RFP: Reeeequest f",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "quest f",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "quest foooor Pr",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "r Proposal",
-            "page": 0
-        },
-        {
-            "level": "H1",
-            "text": "RFP: R",
-            "page": 0
-        },
-        {
-            "level": "H2",
             "text": "To Present a Proposal for Developing",
             "page": 0
         },
         {
+            "level": "H1",
+            "text": "the Business Plan for the Ontario",
+            "page": 0
+        },
+        {
+            "level": "H1",
+            "text": "Digital Library",
+            "page": 0
+        },
+        {
             "level": "H3",
+            "text": "Ontario’s Libraries",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "Working Together",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "RFP: R",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "RFP: Reequest f",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "quest f",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "quest foor Pr",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "r Pr",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "r Proposal",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "oposal",
+            "page": 0
+        },
+        {
+            "level": "H2",
             "text": "Ontario’s Digital Library",
             "page": 1
         },
         {
-            "level": "H4",
-            "text": "was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively",
-            "page": 3
+            "level": "H3",
+            "text": "ACritical Component for Implementing Ontario’s Road Map to",
+            "page": 1
         },
         {
-            "level": "H4",
-            "text": "with its members to promote universal access to materials and resources in more than 250",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "not include elementary or secondary schools. However, the timeline and funding we are",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "years. TAL’s implementation plan was supported by 8 million dollars in provincially shared",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "schools as partners; it has 250 member libraries. ODL envisions universal access for all",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "The ODL will be a partnership-based organization providing seamless electronic information",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "services and resources to the citizens of Ontario. It will use local libraries as the entry point for",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "common resources The ODL will recognize the unique responsibilities and needs of public",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "libraries, school libraries, college and university libraries and special libraries. The ODL",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "envisions a digital network of information resources, allowing members to collaborate when",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "there is mutual benefit and to support the common mandates of local libraries.",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "The principles which will define and guide the ODL are:",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will bring consistent, high-quality electronic resources and services to 10 million",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will eliminate barriers to the access to information and create more consistent",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "Shared decision-making and accountability:",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will facilitate consensus among members regarding ODL’s portfolio of electronic",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will balance the interests and realities of small and large as well as rich and poor",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will share decision-making in order to enable the people we serve.",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will work based on an underlying assumption of trust and synergy.",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will leverage provincial, institutional, and local dollars to realize economies of scale",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "and put Ontario dollars to work for everyone",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will be willing to pool talents and dollars in order to provide common services that are",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "truly greater than those that can be maintained by individual institutions.",
-            "page": 3
-        },
-        {
-            "level": "H4",
-            "text": "We will provide the licenses, infrastructure, services and support that enable local",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "libraries to provide exceptional services to their clientele. ODL will focus on support,",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "providing the underpinning, not overshadowing.",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "Services envisioned for the ODL’s include:",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "to the “deep” web (i.e. Commercial, purchased electronic services)",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "to credible web sites and electronic resources",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "to digital government information",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "to support citizens, in real-time, as they try to use electronic resources",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "to assist citizens as they use web-links",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "Provincial Purchasing & Licensing:",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "of electronic content on a consortia basis for all member libraries",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "of common standards for the preservation and archiving local digital content",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "of a common interface to ODL resources and services that can be imbedded in local",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "For each Ontario citizen it could mean:",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "One local point of entry to access seamless electronic library services and",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "resources for their personal, educational and professional needs;",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "Access to credible, high-quality, user-friendly electronic services through their",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "community, school, or academic library;",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "Confidence that the electronic services and sources they – and their children",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "– are using are safe, valid, and bringing them both global and local",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "perspectives;",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "Electronic information and tools that enhance job skills and the learning",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "experience",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "For each Ontario student it could mean:",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "One local point of entry to quality, curriculum- based electronic information",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "resources and services",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "Connection to their individual educational environment, whether at the",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "elementary, secondary or post-secondary levels",
-            "page": 4
-        },
-        {
-            "level": "H4",
-            "text": "The Business Plan to be Developed",
-            "page": 5
-        },
-        {
-            "level": "H4",
-            "text": "Approach and Specific Proposal Requirements",
-            "page": 6
-        },
-        {
-            "level": "H4",
-            "text": "Evaluation and Awarding of Contract",
-            "page": 7
-        },
-        {
-            "level": "H4",
-            "text": "Appendix A:  ODL Envisioned Phases & Funding",
-            "page": 8
-        },
-        {
-            "level": "H4",
-            "text": "ODL Steering Committee Terms of Reference",
-            "page": 10
-        },
-        {
-            "level": "H4",
-            "text": "1. Preamble",
-            "page": 10
-        },
-        {
-            "level": "H4",
-            "text": "2. Terms of Reference",
-            "page": 10
-        },
-        {
-            "level": "H4",
-            "text": "3. Membership",
-            "page": 10
-        },
-        {
-            "level": "H4",
-            "text": "4. Appointment Criteria and Process",
-            "page": 11
-        },
-        {
-            "level": "H4",
-            "text": "5. Term",
-            "page": 11
-        },
-        {
-            "level": "H4",
-            "text": "6. Chair",
-            "page": 11
-        },
-        {
-            "level": "H4",
-            "text": "7. Meetings",
-            "page": 11
-        },
-        {
-            "level": "H4",
-            "text": "8. Lines of Accountability and Communication",
-            "page": 11
-        },
-        {
-            "level": "H4",
-            "text": "8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "ongoing communications and consultation on issues and progress.  The Steering committee",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "is responsible for strong liaison with government particularly the Chief Information Officer",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "Community Services Cluster, ADM’s and Deputy Ministers.",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "9. Financial and Administrative Policies",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "9.1 Service on the Steering Committee is non-remunerative",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "policies of the Ontario Library Association",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "The ODL Steering Committee will function according to standard conflict of interest guidelines",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "ensuring that members,  their immediate family members, or their places of employment, will",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "not benefit financially from the decisions  the Steering Committee might make. As a first",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "order of business, the Steering Committee will be expected to adopt a conflict of interest policy",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "statement and procedural guidelines that will govern its work.",
-            "page": 12
-        },
-        {
-            "level": "H4",
-            "text": "ODL’s Envisioned Electronic Resources",
-            "page": 13
+            "level": "H3",
+            "text": "Prosperity Strategy",
+            "page": 1
         }
     ]
 }
