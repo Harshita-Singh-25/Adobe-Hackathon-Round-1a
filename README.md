@@ -1,4 +1,4 @@
-# PDF Outline Extractor
+# Round 1A Adobe India Hackathon
 
 A sophisticated Python solution that extracts document titles and hierarchical headings (H1-H4) from PDF files, outputting structured JSON for the hackathon challenge.
 
@@ -29,19 +29,6 @@ This tool uses advanced PDF analysis to identify document structure through:
 - Excludes headers/footers, page numbers, bullets, URLs
 - Prevents duplicate headings across pages
 - Handles single vs multi-page document differences
-
-
-## 🎯 Usage
-
-1. **Place PDFs** in mounted `input/` directory
-2. **Run container** - automatically processes all PDFs
-3. **Collect results** from `output/` directory (filename.json for each filename.pdf)
-
-The solution handles the entire pipeline automatically:
-- Discovers all PDF files in input directory
-- Processes each using the sophisticated extraction logic
-- Generates corresponding JSON files with proper formatting
-- Completes within performance constraints
 
 ## 🔧 Technical Approach
 
@@ -74,20 +61,22 @@ The solution handles the entire pipeline automatically:
 }
 ```
 
-## 🐳 Docker Setup
+## 🐳 How to Build and Run
 
-### Build & Run
+### Build Command
 ```bash
-# Build
-docker build --platform linux/amd64 -t pdf-extractor:latest .
+docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier .
+```
 
-# Run  
+### Run Command  
+```bash
 docker run --rm \
   -v $(pwd)/input:/app/input \
   -v $(pwd)/output:/app/output \
   --network none \
-  pdf-extractor:latest
+  mysolutionname:somerandomidentifier
 ```
+
 
 ### Container Specs
 - **Platform**: linux/amd64 (AMD64 architecture)
@@ -104,6 +93,15 @@ docker run --rm \
 └── README.md           # This documentation
 ```
 
+## 🎯 Usage
 
+1. **Place PDFs** in mounted `input/` directory
+2. **Run container** - automatically processes all PDFs
+3. **Collect results** from `output/` directory (filename.json for each filename.pdf)
 
+The solution handles the entire pipeline automatically:
+- Discovers all PDF files in input directory
+- Processes each using the sophisticated extraction logic
+- Generates corresponding JSON files with proper formatting
+- Completes within performance constraints
 
